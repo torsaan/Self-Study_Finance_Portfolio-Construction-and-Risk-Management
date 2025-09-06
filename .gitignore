@@ -1,3 +1,4 @@
 *.md
 dashboard.py
 module_t.py
+*.pyc
